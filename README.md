@@ -1,4 +1,4 @@
-# Tea Station proejct
+# Tea Station project
 Created this project when I started learning how to build websites. 
 It is a tea station website ceated with HTML and CSS.
 
